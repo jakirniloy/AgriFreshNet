@@ -124,11 +124,12 @@ Both models are trained independently to ensure specialized and accurate predict
 
 <div align="center">
 
-**Md Jakir Hossain Niloy**
+**Md Jakir Hossain**
 
-*Researcher & Graduate Teaching Assistant*
-**East West University, Dhaka, Bangladesh**
+*Researcher*
+**IntelliSphere Lab, Dhaka, Bangladesh**
 *MSc in Computer Science and Engineering*
+**East West University, Dhaka, Bangladesh**
 
 </div>
 
